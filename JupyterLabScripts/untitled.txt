@@ -1,0 +1,17 @@
+Usefull information:
+
+IG API Companion:
+https://labs.ig.com/sample-apps/api-companion/index.html
+IG Python Library:
+https://github.com/ig-python/ig-markets-api-python-library
+IG API Guide:
+https://labs.ig.com/streaming-api-guide
+MY IG:
+https://www.ig.com/ch/myig/settings/api-keys
+
+
+Lightstreamer Value Streaming:
+https://github.com/Lightstreamer/Lightstreamer-example-StockList-client-python
+https://demos.lightstreamer.com/?p=lightstreamer&t=client&f=all&lclient=python
+python /home/claudio/development/Trading/Lightstreamer-example-StockList-client-python/src/stock_list_demo.py
+https://labs.ig.com/lightstreamer-downloads
