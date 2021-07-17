@@ -2,6 +2,8 @@ Usefull information:
 
 IG API Companion:
 https://labs.ig.com/sample-apps/api-companion/index.html
+https://labs.ig.com/sample-apps/streaming-companion/index.html
+
 IG Python Library:
 https://github.com/ig-python/ig-markets-api-python-library
 IG API Guide:
